@@ -1,6 +1,6 @@
 # Blocklist
 # Format: 0.0.0.0 domain.com
-# Generated: 2026-10-13
+# Generated: 2026-11-15
 
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
@@ -28,6 +28,7 @@
 0.0.0.0 realitatea.ro
 0.0.0.0 zdassets.com
 0.0.0.0 intercomcdn.com
+0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 intercom.io
 0.0.0.0 gtranslate.net
 0.0.0.0 ibyteimg.com
